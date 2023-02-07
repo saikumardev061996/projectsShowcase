@@ -1,0 +1,19 @@
+.body-container {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.select-option {
+  padding: 10px;
+}
+.select-container {
+  width: 300px;
+  padding: 8px;
+  border-radius: 8px;
+  margin-top: 20px;
+}
+.projects-total-list {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
